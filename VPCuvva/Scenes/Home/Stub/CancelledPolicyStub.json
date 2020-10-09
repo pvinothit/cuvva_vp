@@ -1,0 +1,78 @@
+[
+    {
+        "type": "policy_created",
+        "timestamp": "2019-02-04T10:52:50.714Z",
+        "unique_key": "policy:dev_pol_000000BbUEGaXP0JVYH3ge0HItj8K",
+        "payload": {
+            "user_id": "user_000000BSJ47k7mKYfWUhkWOrxLYGm",
+            "user_revision": "dev_profilerev_000000BbFeG7x0I95tMzX7l7VGt9c",
+            "policy_id": "dev_pol_000000BbUEGaXP0JVYH3ge0HItj8K",
+            "original_policy_id": "dev_pol_000000BbUEGaXP0JVYH3ge0HItj8K",
+            "reference_code": "PPKN3VUVQQ",
+            "start_date": "2019-02-04T10:52:51.000Z",
+            "end_date": "2019-02-04T11:52:51.000Z",
+            "incident_phone": "+442038287127",
+            "vehicle": {
+                "vrm": "LB07SEO",
+                "prettyVrm": "LB07 SEO",
+                "make": "Volkswagen",
+                "model": "Polo",
+                "variant": "SE 16V",
+                "color": "Silver"
+            },
+            "documents": {
+                "certificate_url": "https://cuvva-documents-dev.s3.eu-west-1.amazonaws.com/documents/dev_certdoc_000000BbUEGaXP0JVrZucWjkezioS?AWSAccessKeyId=AKIAIOKQ2DGVTKKLGZAA&Expires=1581783759&Signature=H8EuIaOwQWnbEVgnUHJol3Wy%2BG4%3D",
+                "terms_url": "https://cuvva-documents-dev.s3.eu-west-1.amazonaws.com/standard-documents/mulsanne-hourly-terms-policy/5?AWSAccessKeyId=AKIAIOKQ2DGVTKKLGZAA&Expires=1581769754&Signature=ko8kMtW1nQiMxVRDUciqXTZe%2B%2B4%3D"
+            }
+        }
+    },
+    {
+        "type": "policy_financial_transaction",
+        "timestamp": "2019-02-04T10:52:52.594Z",
+        "unique_key": "transaction:dev_tx_000000BbUEGaXP0JWDC4ClGJmMzNA",
+        "payload": {
+            "policy_id": "dev_pol_000000BbUEGaXP0JVYH3ge0HItj8K",
+            "pricing": {
+                "underwriter_premium": 499,
+                "commission": 166,
+                "total_premium": 665,
+                "ipt": 80,
+                "ipt_rate": 1200,
+                "extra_fees": 125,
+                "vat": 0,
+                "deductions": 0,
+                "total_payable": 870
+            }
+        }
+    },
+    {
+        "type": "policy_cancelled",
+        "timestamp": "2019-02-04T12:04:48.669Z",
+        "unique_key": "cancellation:dev_polcancel_000000BbULyVLNP373NfaUxX4U4Ke",
+        "payload": {
+            "policy_id": "dev_pol_000000BbUEGaXP0JVYH3ge0HItj8K",
+            "type": "void",
+            "new_end_date": null
+        }
+    },
+    {
+        "type": "policy_financial_transaction",
+        "timestamp": "2019-02-04T12:04:52.322Z",
+        "unique_key": "transaction:dev_tx_000000BbULyVLNP37iIg6cDZXxKZU",
+        "payload": {
+            "policy_id": "dev_pol_000000BbUEGaXP0JVYH3ge0HItj8K",
+            "pricing": {
+                "underwriter_premium": -499,
+                "commission": -166,
+                "total_premium": -665,
+                "ipt": -80,
+                "ipt_rate": 1200,
+                "extra_fees": -125,
+                "vat": 0,
+                "deductions": 0,
+                "total_payable": -870
+            }
+        }
+    }
+]
+ 

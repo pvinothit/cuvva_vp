@@ -1,0 +1,139 @@
+[
+  {
+    "type": "policy_created",
+    "timestamp": "2019-01-18T10:15:29.979Z",
+    "unique_key": "policy:dev_pol_000000BansDm7Jjbj3k4R1IUJwrEe",
+    "payload": {
+      "user_id": "user_000000BSJ47k7mKYfWUhkWOrxLYGm",
+      "user_revision": "dev_profilerev_000000Bali5AZE5CMFSW3JWGClpxY",
+      "policy_id": "dev_pol_000000BansDm7Jjbj3k4R1IUJwrEe",
+      "original_policy_id": "dev_pol_000000BansDm7Jjbj3k4R1IUJwrEe",
+      "reference_code": "PP32DFCS5W",
+      "start_date": "2020-10-06T10:15:30.000Z",
+      "end_date": "2020-10-18T11:15:30.000Z",
+      "incident_phone": "+442038287127",
+      "vehicle": {
+        "vrm": "LB07SEO",
+        "prettyVrm": "LB07 SEO",
+        "make": "Volkswagen",
+        "model": "Polo",
+        "variant": "SE 16V",
+        "color": "Silver"
+      },
+      "documents": {
+        "certificate_url": "https://cuvva-documents-dev.s3.eu-west-1.amazonaws.com/documents/dev_certdoc_000000BansDsylsQfKsbDmtldL8Xw?AWSAccessKeyId=AKIAIOKQ2DGVTKKLGZAA&Expires=1581783759&Signature=v3NyWPmwRhEp2xLyiFVuGVLSJfM%3D",
+        "terms_url": "https://cuvva-documents-dev.s3.eu-west-1.amazonaws.com/standard-documents/mulsanne-hourly-terms-policy/5?AWSAccessKeyId=AKIAIOKQ2DGVTKKLGZAA&Expires=1581769754&Signature=ko8kMtW1nQiMxVRDUciqXTZe%2B%2B4%3D"
+      }
+    }
+  },
+  {
+    "type": "policy_financial_transaction",
+    "timestamp": "2019-01-18T10:15:32.250Z",
+    "unique_key": "transaction:dev_tx_000000BansDm7JjbiFjqm6TTTFPdo",
+    "payload": {
+      "policy_id": "dev_pol_000000BansDm7Jjbj3k4R1IUJwrEe",
+      "pricing": {
+        "underwriter_premium": 499,
+        "commission": 166,
+        "total_premium": 665,
+        "ipt": 80,
+        "ipt_rate": 1200,
+        "extra_fees": 125,
+        "vat": 0,
+        "deductions": 0,
+        "total_payable": 870
+      }
+    }
+  },
+  {
+    "type": "policy_created",
+    "timestamp": "2019-01-18T10:19:52.335Z",
+    "unique_key": "policy:dev_pol_000000Bansgsrh9klPoJ5juzKjh2W",
+    "payload": {
+      "user_id": "user_000000BSJ47k7mKYfWUhkWOrxLYGm",
+      "user_revision": "dev_profilerev_000000Bali5AZE5CMFSW3JWGClpxY",
+      "policy_id": "dev_pol_000000Bansgsrh9klPoJ5juzKjh2W",
+      "original_policy_id": "dev_pol_000000Bansgsrh9klPoJ5juzKjh2W",
+      "reference_code": "PPKQ96JA5W",
+      "start_date": "2019-01-18T10:19:52.000Z",
+      "end_date": "2019-01-18T11:19:52.000Z",
+      "incident_phone": "+442038287127",
+      "vehicle": {
+        "vrm": "FX1",
+        "prettyVrm": "FX 1",
+        "make": "Mercedes-Benz",
+        "model": "C350",
+        "variant": "E Sport Premium Plus Hybrid",
+        "color": "Blue"
+      },
+      "documents": {
+        "certificate_url": "https://cuvva-documents-dev.s3.eu-west-1.amazonaws.com/documents/dev_certdoc_000000Bansgsrh9kkVmgOPgxu9flY?AWSAccessKeyId=AKIAIOKQ2DGVTKKLGZAA&Expires=1581783759&Signature=6NKYMc1D9kpyQN6HulA%2Fzc%2FJgJc%3D",
+        "terms_url": "https://cuvva-documents-dev.s3.eu-west-1.amazonaws.com/standard-documents/mulsanne-hourly-terms-policy/5?AWSAccessKeyId=AKIAIOKQ2DGVTKKLGZAA&Expires=1581769754&Signature=ko8kMtW1nQiMxVRDUciqXTZe%2B%2B4%3D"
+      }
+    }
+  },
+  {
+    "type": "policy_financial_transaction",
+    "timestamp": "2019-01-18T10:19:54.734Z",
+    "unique_key": "transaction:dev_tx_000000Bansgsrh9kkbo5Qp5yU2FRg",
+    "payload": {
+      "policy_id": "dev_pol_000000Bansgsrh9klPoJ5juzKjh2W",
+      "pricing": {
+        "underwriter_premium": 648,
+        "commission": 216,
+        "total_premium": 864,
+        "ipt": 104,
+        "ipt_rate": 1200,
+        "extra_fees": 125,
+        "vat": 0,
+        "deductions": 0,
+        "total_payable": 1093
+      }
+    }
+  },
+  {
+    "type": "policy_created",
+    "timestamp": "2019-01-18T10:23:47.395Z",
+    "unique_key": "policy:dev_pol_000000Bant6tTMat4jIG9pN1aI8TA",
+    "payload": {
+      "user_id": "user_000000BSJ47k7mKYfWUhkWOrxLYGm",
+      "user_revision": "dev_profilerev_000000Bali5AZE5CMFSW3JWGClpxY",
+      "policy_id": "dev_pol_000000Bant6tTMat4jIG9pN1aI8TA",
+      "original_policy_id": "dev_pol_000000Bant6tTMat4jIG9pN1aI8TA",
+      "reference_code": "PFK38GJAXQ",
+      "start_date": "2019-01-18T10:23:47.000Z",
+      "end_date": "2019-01-18T11:23:47.000Z",
+      "incident_phone": "+442038287127",
+      "vehicle": {
+        "vrm": "EF51ZNM",
+        "prettyVrm": "EF51 ZNM",
+        "make": "MINI",
+        "model": "Cooper",
+        "color": "Silver"
+      },
+      "documents": {
+        "certificate_url": "https://cuvva-documents-dev.s3.eu-west-1.amazonaws.com/documents/dev_certdoc_000000Bant6tTMat3pGdSV909i7CC?AWSAccessKeyId=AKIAIOKQ2DGVTKKLGZAA&Expires=1581783759&Signature=t%2Bi0fZfO9KWKGxCXCDwefycntnQ%3D",
+        "terms_url": "https://cuvva-documents-dev.s3.eu-west-1.amazonaws.com/standard-documents/mulsanne-hourly-terms-policy/5?AWSAccessKeyId=AKIAIOKQ2DGVTKKLGZAA&Expires=1581769754&Signature=ko8kMtW1nQiMxVRDUciqXTZe%2B%2B4%3D"
+      }
+    }
+  },
+  {
+    "type": "policy_financial_transaction",
+    "timestamp": "2019-01-18T10:23:50.389Z",
+    "unique_key": "transaction:dev_tx_000000Bant6tTMat3vI2UuY0jagsK",
+    "payload": {
+      "policy_id": "dev_pol_000000Bant6tTMat4jIG9pN1aI8TA",
+      "pricing": {
+        "underwriter_premium": 499,
+        "commission": 166,
+        "total_premium": 665,
+        "ipt": 80,
+        "ipt_rate": 1200,
+        "extra_fees": 125,
+        "vat": 0,
+        "deductions": 0,
+        "total_payable": 870
+      }
+    }
+  }
+]

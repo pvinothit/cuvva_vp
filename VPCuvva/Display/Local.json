@@ -1,0 +1,42 @@
+{
+    "strings": {
+        "global": {
+            "pricing": {
+                "commission_expl": "including commission",
+                "extra_fees": "Admin fee",
+                "ipt": "Insurance premium tax",
+                "title": "Pricing breakdown",
+                "total_payable": "Total",
+                "total_premium": "Insurance premium"
+            }
+        },
+        "homepage":{
+            "active_section_title" : "Active policies",
+            "historic_section_title" : "Vehicles",
+            "insure_cta" : "Insure",
+            "extend_cta" : "Extend",
+            "vrm_label" : "Reg plate",
+            "policy_count_label" : "Total Policies",
+            "time_remaining_label" : " remaining"
+        },
+        "policy_detail":{
+            "title" : "Vehicle profile",
+            "policy_count_label" : "Total Policies",
+            "insure_cta" : "Insure now!",
+            "extend_cta" : "Extend cover",
+            "active_section_title" : "Active driving policy",
+            "historic_section_title" : "Previous driving policies"
+        },
+        "motor": {
+            "policy_expiry": "Your driving policy has expired.",
+            "policy_expiry_warning": "Your driving policy ends in 15 minutes.",
+            "pricing": {
+                "extra_fees": "Admin fee",
+                "ipt": "Insurance premium tax",
+                "title": "Pricing breakdown",
+                "total_payable": "Total",
+                "total_premium": "Insurance premium + commission"
+            }
+        }
+    }
+}
