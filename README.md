@@ -6,3 +6,6 @@
 # UI
    I hope the task is mainly on parsing the event streams and processing to make it work for given screens. So haven't focused much on UI.   
    
+# Time Spend on the task
+   I have rougly spent 10 - 13 hrs on it.
+   
