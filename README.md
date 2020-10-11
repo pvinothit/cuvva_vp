@@ -11,3 +11,9 @@
   
 # Tests
    I would love to right the tests first but given the time constraints i haven't added many tests as i would like to have. Though i have added for main event processing logic. But tests can be added easily by the way it's structured.
+
+# Improvements(If more time)
+   • Theming can be improved by having configurable structure. Like create different themes and switch between those if needed. Eg between dark and light theme.
+   • Constraints - Can be imporved 
+
+ 
